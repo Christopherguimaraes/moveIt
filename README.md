@@ -22,3 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  - Instale todas as dependências usando o comando 'yarn add'
  - Inicie o servidor web usando o 'yarn start'. O aplicativo será servido em  [http://localhost:3000](http://localhost:3000/)
  - Vá para  [http://localhost:3000](http://localhost:3000/)  em seu navegador e comece a explorar repositórios
+ - Ou acesse a aplicação diretamente na rede : https://moveit-gamma-one.vercel.app/
